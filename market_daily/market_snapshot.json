@@ -1,52 +1,52 @@
 {
-  "date": "2026-02-01",
+  "date": "2026-02-06",
   "equity": [
     {
       "symbol": "SPX",
       "name": "S&P 500",
-      "price": 6120.50,
-      "change": 45.30,
+      "price": 6120.5,
+      "change": 45.3,
       "change_pct": 0.74
     },
     {
       "symbol": "N225",
       "name": "Nikkei 225",
-      "price": 39850.00,
-      "change": -120.50,
-      "change_pct": -0.30
+      "price": 39850.0,
+      "change": -120.5,
+      "change_pct": -0.3
     }
   ],
   "commodities": [
     {
       "symbol": "GOLD",
       "name": "Gold",
-      "price": 2085.40,
-      "unit": "USD/oz",
-      "change": 12.30,
-      "change_pct": 0.59
+      "price": 2085.4,
+      "change": 12.3,
+      "change_pct": 0.59,
+      "unit": "USD/oz"
     },
     {
       "symbol": "WTI",
       "name": "Crude Oil WTI",
       "price": 78.25,
-      "unit": "USD/bbl",
       "change": -1.15,
-      "change_pct": -1.45
+      "change_pct": -1.45,
+      "unit": "USD/bbl"
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 102500.00,
-      "change": 3250.00,
+      "price": 102500.0,
+      "change": 3250.0,
       "change_pct": 3.27
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 3280.50,
-      "change": -45.20,
+      "price": 3280.5,
+      "change": -45.2,
       "change_pct": -1.36
     }
   ]

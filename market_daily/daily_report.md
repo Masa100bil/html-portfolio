@@ -1,6 +1,6 @@
 # Market Daily Report
 
-**Date:** 2026-02-01
+**Date:** 2026-02-06
 
 ## Equity (株式指数)
 

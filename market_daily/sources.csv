@@ -1,0 +1,7 @@
+category,symbol,name,unit,price,change,change_pct
+equity,SPX,S&P 500,,6120.50,45.30,0.74
+equity,N225,Nikkei 225,,39850.00,-120.50,-0.30
+commodities,GOLD,Gold,USD/oz,2085.40,12.30,0.59
+commodities,WTI,Crude Oil WTI,USD/bbl,78.25,-1.15,-1.45
+crypto,BTC,Bitcoin,,102500.00,3250.00,3.27
+crypto,ETH,Ethereum,,3280.50,-45.20,-1.36
