@@ -79,6 +79,21 @@ def generate_markdown(data: dict) -> str:
         lines.append("データがありません。")
     lines.append("")
 
+    # FX（為替）
+    lines.append("## FX (為替)")
+    lines.append("")
+    if data.get("fx"):
+        lines.append("| Symbol | Name | Rate | Last Refreshed |")
+        lines.append("|--------|------|-----:|----------------|")
+        for item in data["fx"]:
+            last_refreshed = item.get("last_refreshed", "-")
+            lines.append(f"| {item['symbol']} | {item['name']} | {item['price']:,.2f} | {last_refreshed} |")
+        lines.append("")
+        lines.append("> 為替レートは市場の需給により常に変動します。")
+    else:
+        lines.append("データがありません。")
+    lines.append("")
+
     # フッター
     lines.append("---")
     lines.append("")
