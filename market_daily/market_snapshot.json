@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "equity": [
     {
       "symbol": "SPX",
@@ -57,7 +57,7 @@
       "price": 154.989,
       "change": 0.0,
       "change_pct": 0.0,
-      "last_refreshed": "2026-02-20 22:45:34"
+      "last_refreshed": "2026-02-21 22:12:06"
     }
   ]
 }
