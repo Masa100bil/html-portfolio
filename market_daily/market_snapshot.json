@@ -54,10 +54,10 @@
     {
       "symbol": "USDJPY",
       "name": "USD/JPY",
-      "price": 155.83,
+      "price": 155.803,
       "change": 0.0,
       "change_pct": 0.0,
-      "last_refreshed": "2026-02-24 22:22:10"
+      "last_refreshed": "2026-02-24 22:50:44"
     }
   ]
 }
