@@ -50,14 +50,5 @@
       "change_pct": -1.36
     }
   ],
-  "fx": [
-    {
-      "symbol": "USDJPY",
-      "name": "USD/JPY",
-      "price": 157.74569817,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "last_refreshed": "2026-08-07 22:22:57"
-    }
-  ]
+  "fx": []
 }
