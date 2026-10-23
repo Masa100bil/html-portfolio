@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "equity": [
     {
       "symbol": "SPX",
@@ -54,10 +54,10 @@
     {
       "symbol": "USDJPY",
       "name": "USD/JPY",
-      "price": 158.20811397,
+      "price": 156.29593441,
       "change": 0.0,
       "change_pct": 0.0,
-      "last_refreshed": "2026-10-22 00:39:12"
+      "last_refreshed": "2026-10-23 00:13:44"
     }
   ]
 }
